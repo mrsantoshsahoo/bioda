@@ -1,0 +1,43 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "map.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "map.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1436,
+                "y": 622
+            }
+        },
+        "tiles.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 0.75
+        }
+    },
+    "last.exportedFilePath": "C:/Users/DevKage/Development/Flutter/temp/isomap_test/assets/tiles",
+    "last.imagePath": "C:/Users/DevKage/Development/Flutter/temp/isomap_test/assets/images",
+    "map.lastUsedExportFilter": "All Files (*)",
+    "map.lastUsedFormat": "tmx",
+    "map.orientation": null,
+    "map.tileHeight": 65,
+    "map.tileWidth": 100,
+    "openFiles": [
+        "tiles.tsx",
+        "map.tmx"
+    ],
+    "project": "isomap-test.tiled-project",
+    "recentFiles": [
+        "tiles.tsx",
+        "map.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
